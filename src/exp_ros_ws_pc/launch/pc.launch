@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+  <node name="joy_node" pkg="joy" type="joy_node" />
+  <node name="joy_twist_publisher" pkg="joy_twist_publisher" type="joy_twist_publisher" />
+</launch>

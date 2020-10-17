@@ -1,0 +1,11 @@
+<package format="2">
+  <name>exp_ros_ws_pc</name>
+  <version>0.0.1</version>
+  <description>
+    Launch files for PC
+  </description>
+  <maintainer email="m.yoshi.1700@gmail.com">Masahiko Toyoshi</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
